@@ -1,0 +1,7 @@
+channels:
+ - conda-forge
+ - bioconda
+ - defaults
+dependencies:
+ - khmer=3.0.0a
+ - trimmomatic=0.39
