@@ -1,0 +1,13 @@
+catlas_base: SPR1-1_bulkmetagenome_S42
+input_sequences:
+- outputs/abundtrim/SPR1-1_bulkmetagenome_S42.abundtrim.fq.gz
+ksize: 31
+radius: 1
+search:
+- outputs/contigs/EarthsVirome_31697.fa  
+- outputs/contigs/EarthsVirome_41546.fa  
+- outputs/contigs/EarthsVirome_48981.fa
+searchquick:
+- outputs/contigs/EarthsVirome_31697.fa  
+- outputs/contigs/EarthsVirome_41546.fa  
+- outputs/contigs/EarthsVirome_48981.fa
